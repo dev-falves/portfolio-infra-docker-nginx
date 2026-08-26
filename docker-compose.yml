@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  web-app:
+    image: nginxdemos/hello:latest
+    container_name: minha-app
+    restart: always
+    ports:
+      - "127.0.0.1:3000:80"
