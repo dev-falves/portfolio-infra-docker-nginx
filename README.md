@@ -24,6 +24,8 @@ Este repositório contém a infraestrutura e as configurações para a publicaç
 - Validação do Nginx
 ![Diagrama da Arquitetura](./Proxy%20Reverso.png)
 - Validação do SSH
+
 ![Diagrama da Arquitetura](./SSH.png)
+
 - Arquivo do proxy reverso Nginx funcionando
 ![Diagrama da Arquitetura](./UFW.png)
