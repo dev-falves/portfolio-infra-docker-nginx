@@ -18,7 +18,7 @@ Este repositório contém a infraestrutura e as configurações para a publicaç
 ## 🛡️ Evidências de Funcionamento e Segurança
 
 - Docker rodando e UFW ativo
-![Diagrama da Arquitetura](./Diagrama%20de%20Arquitetura.png)
+![Diagrama da Arquitetura](./servidor%20web.png)
 - Teste de bloqueio de porta
 ![Diagrama da Arquitetura](./bloqueio%20de%20porta.png)
 - Validação do Nginx
